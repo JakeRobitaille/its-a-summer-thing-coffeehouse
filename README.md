@@ -1,2 +1,2 @@
-# its-a-summer-thing-coffehouse
+# its-a-summer-thing-coffeehouse
 This is a website for a made up coffeehouse
