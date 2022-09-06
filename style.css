@@ -160,23 +160,40 @@ body {
 
 /* The signup part of the page */
 .container-signup {
-    
+    display: flex;
+    justify-content: center;
 }
 
 .container-box {
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    margin: 80px;
+    background-color: #3882f6;
+    border-radius: 8px;
 }
 
 .container-signup-info {
-
+    display: flex;
+    flex-direction: column;
+    margin: 20px 100px;
 }
 
 .signup-header {
-
+    font-size: 24px;
+    color: #ffffff;
 }
 
 .signup-subtext {
+    font-size: 16px;
+    color: #e5e7eb;
+}
 
+.signup.button.outline {
+    border: 2px solid #ffffff;
+    margin-right: 100px;
+    margin-left: auto;
 }
 
 /* The footer section of the page */
