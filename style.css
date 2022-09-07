@@ -12,7 +12,7 @@ body {
     font-family: hero;
 }
 
-/* The header section of the page */
+/* The header section of all the pages */
 .header-container {  
     display: flex;
     flex-direction: column;
@@ -84,7 +84,7 @@ body {
     text-align: center;    
 }
 
-.signup.button { /* also used in the bottom section */
+.signup.button { /* also used in the signup section in the bottom */
     width: 125px;
     height: 30px;
     background-color: #3882f6;
@@ -94,7 +94,7 @@ body {
     color: #f9faf8;
 }
 
-/* The main section of the page */
+/* The main section of the home page */
 .container-main {
     display: flex;
     flex-direction: column;
@@ -133,7 +133,7 @@ body {
     text-align: center;
 }
 
-/* The reviews section of the page */
+/* The reviews section of the home and reviews page */
 .container-reviews {
     display: flex;
     flex-direction: column;
@@ -158,7 +158,7 @@ body {
     color: #484f58;
 }
 
-/* The signup part of the page */
+/* The signup part of the home page */
 .container-signup {
     display: flex;
     justify-content: center;
@@ -196,7 +196,7 @@ body {
     margin-left: auto;
 }
 
-/* The footer section of the page */
+/* The footer section of all the pages */
 .content-footer {
     display: flex;
     justify-content: center;
